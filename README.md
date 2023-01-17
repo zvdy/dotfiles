@@ -1,4 +1,4 @@
-# Linux Rice dotfiles 
+# Software Linux Rice
 
 ## Table of Contents
 
@@ -14,6 +14,7 @@
 ## Introduction
 
 This is my Linux rice. I use Kali Linux with bspwm as my window manager. I use a lot of different programs and I have a lot of different configurations. I will try to list everything I use and how I use it.
+> To see my dotfiles, go to the [dotfiles](dotfiles) folder.
 
 ## Software
 
@@ -74,7 +75,8 @@ This is my Linux rice. I use Kali Linux with bspwm as my window manager. I use a
 - [Catppuccin Icons](https://github.com/catppuccin/gtk)
 
 ## Terminal
-- [Alacritty](https://github.com/alacritty/alacritty)
+- [Kitty](https://github.com/kovidgoyal/kitty)
+- [My Config](dotfiles/kitty/kitty.conf)
 
 ## License
 Licensed under the [MIT License](LICENSE)
